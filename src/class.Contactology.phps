@@ -1,5 +1,7 @@
 <?php
 
+namespace ForeWord\Contactology;
+
 class Contactology {
 	protected $url = "api.emailcampaigns.net/2/REST/";
 	protected $key;

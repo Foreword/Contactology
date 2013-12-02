@@ -2,6 +2,8 @@
 
 namespace ForeWord\Contactology;
 
+class Exception extends \Exception {};
+
 class Contactology {
 	protected $url = "api.emailcampaigns.net/2/REST/";
 	protected $key;

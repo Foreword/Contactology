@@ -1,8 +1,8 @@
 {
-	"name": "ForeWord/Contactology",
+	"name": "Foreword/Contactology",
 	"type": "library",
 	"description": "Mirror of Contactology's PHP Wrapper: https://www.contactology.com/email-marketing-api/wrappers#PHP",
-	"homepage": "https://github.com/ForeWord/Contactology",
+	"homepage": "https://github.com/Foreword/Contactology",
 	"require": {
 	},
 	"require-dev": {
@@ -11,7 +11,7 @@
 	},
 	"autoload": {
 		"psr-0": {
-			"ForeWord\\Contactology": "psr-0"
+			"Foreword\\Contactology": "psr-0"
 		}
 	}
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace ForeWord\Contactology;
+namespace Foreword\Contactology;
 
 class Exception extends \Exception {};
 
